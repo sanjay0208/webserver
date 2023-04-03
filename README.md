@@ -62,6 +62,11 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ## CLIENT OUTPUT:
+![Screenshot 2023-04-03 083947](https://user-images.githubusercontent.com/119406959/229402918-aa470c32-f204-44d3-b371-74e031e19804.png)
+
+ ##SERVER OUTPUT:
+ ![WhatsApp Image 2023-04-03 at 8 39 20 AM](https://user-images.githubusercontent.com/119406959/229403073-5a3dc993-1c9f-4ade-9839-93d99850ebde.jpeg)
+
 
 ## RESULT:
 The program is executed succesfully
